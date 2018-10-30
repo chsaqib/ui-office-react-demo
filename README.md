@@ -1,6 +1,7 @@
 ## webpart
 
 This is where you include your WebPart documentation.
+Created a webpart with 2 buttons ,Navigation and a panel
 
 ### Building the code
 
